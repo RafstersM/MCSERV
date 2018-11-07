@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2018-11-07 22:33:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-11-03 13:45:03 +0100"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-11-07 22:27:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:37:26 +0100"
@@ -86,6 +98,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2018-11-03 14:03:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-11-07 21:41:10 +0100"
     },
     "done": true
   },
@@ -767,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-11-07 22:27:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-03 13:48:11 +0100"
@@ -1080,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-11-07 22:33:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-11-03 14:20:47 +0100"
@@ -1254,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-11-07 22:33:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2018-11-03 14:10:58 +0100"
@@ -1362,9 +1398,11 @@
       "minecraft:forest": "2018-11-03 13:03:00 +0100",
       "minecraft:taiga": "2018-11-04 17:14:28 +0100",
       "minecraft:taiga_hills": "2018-11-04 17:29:17 +0100",
+      "minecraft:beach": "2018-11-07 22:16:08 +0100",
       "minecraft:river": "2018-11-03 14:46:17 +0100",
       "minecraft:wooded_mountains": "2018-11-04 17:11:15 +0100",
       "minecraft:wooded_hills": "2018-11-03 14:47:24 +0100",
+      "minecraft:swamp": "2018-11-07 21:17:20 +0100",
       "minecraft:plains": "2018-11-03 13:03:18 +0100"
     },
     "done": false
@@ -1441,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-11-07 22:33:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2018-11-03 14:03:45 +0100"
@@ -1504,6 +1548,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2018-11-04 14:03:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2018-11-07 21:41:10 +0100"
     },
     "done": true
   },
