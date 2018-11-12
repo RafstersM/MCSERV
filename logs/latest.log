@@ -1,100 +1,110 @@
-[13:04:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:04:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:04:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:04:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:04:05] [main/INFO]: Loaded 0 recipes
-[13:04:05] [main/INFO]: Loaded 0 advancements
-[13:04:05] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[13:04:05] [Server thread/INFO]: Loading properties
-[13:04:05] [Server thread/INFO]: Default game type: SURVIVAL
-[13:04:05] [Server thread/INFO]: Generating keypair
-[13:04:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:04:06] [Server thread/INFO]: Using default channel type
-[13:04:07] [Server thread/INFO]: Preparing level "world"
-[13:04:07] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:04:08] [Server thread/INFO]: Loaded 524 recipes
-[13:04:09] [Server thread/INFO]: Loaded 571 advancements
-[13:04:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:04:09] [Server thread/INFO]: Preparing spawn area: 4%
-[13:04:09] [Server thread/INFO]: Preparing spawn area: 8%
-[13:04:09] [Server thread/INFO]: Preparing spawn area: 12%
-[13:04:09] [Server thread/INFO]: Preparing spawn area: 16%
-[13:04:09] [Server thread/INFO]: Preparing spawn area: 20%
-[13:04:09] [Server thread/INFO]: Preparing spawn area: 24%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 28%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 32%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 36%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 40%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 44%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 48%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 52%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 56%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 60%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 64%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 68%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 72%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 76%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 80%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 84%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 88%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 92%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 96%
-[13:04:10] [Server thread/INFO]: Preparing spawn area: 100%
-[13:04:10] [Server thread/INFO]: Time elapsed: 1207 ms
-[13:04:10] [Server thread/INFO]: Done (3.445s)! For help, type "help"
-[13:06:34] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[13:06:34] [Server thread/INFO]: kokosh[/127.0.0.1:51245] logged in with entity id 342 at (-277.3876171258134, 64.0, 226.44734000974634)
-[13:06:34] [Server thread/INFO]: kokosh joined the game
-[13:23:40] [Server thread/ERROR]: Can't find any space for item in the inventory
-[13:23:40] [Server thread/ERROR]: Can't find any space for item in the inventory
-[13:23:40] [Server thread/ERROR]: Can't find any space for item in the inventory
-[15:32:21] [User Authenticator #2/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
-[15:32:21] [Server thread/INFO]: Addicted2Life[/193.0.211.194:54401] logged in with entity id 258222 at (-277.30000001192093, 63.0, 234.3060315840412)
-[15:32:21] [Server thread/INFO]: Addicted2Life joined the game
-[16:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
-[17:04:16] [Server thread/INFO]: kokosh fell from a high place
-[17:04:17] [Server thread/WARN]: kokosh moved too quickly! 184.84082256818613,-2.0,-58.064069432675325
-[17:05:52] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
-[17:05:52] [Server thread/INFO]: Addicted2Life left the game
-[17:29:44] [Server thread/INFO]: kokosh fell off a ladder
-[17:29:46] [Server thread/WARN]: kokosh moved too quickly! 184.59498577722377,-3.0,-67.01249998807907
-[17:34:47] [Server thread/INFO]: kokosh fell from a high place
-[17:39:34] [User Authenticator #3/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
-[17:39:34] [Server thread/INFO]: Addicted2Life[/193.0.211.194:61347] logged in with entity id 527252 at (-280.4888751987547, 64.0, 229.30000001192093)
-[17:39:34] [Server thread/INFO]: Addicted2Life joined the game
-[17:57:50] [Server thread/INFO]: kokosh lost connection: Disconnected
-[17:57:50] [Server thread/INFO]: kokosh left the game
-[18:00:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@242f86a[id=<null>,name=kokosh,properties={},legacy=false] (/127.0.0.1:53871) lost connection: Disconnected
-[18:00:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@11c7b9a2[id=<null>,name=kokosh,properties={},legacy=false] (/127.0.0.1:53873) lost connection: Disconnected
-[18:01:16] [User Authenticator #4/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[18:01:16] [Server thread/INFO]: kokosh[/127.0.0.1:53966] logged in with entity id 605251 at (-273.1537620569063, 64.0, 230.86867012506914)
-[18:01:16] [Server thread/INFO]: kokosh joined the game
-[18:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
-[18:04:08] [Server thread/INFO]: kokosh fell from a high place
-[18:09:36] [Server thread/INFO]: kokosh fell from a high place
-[18:16:07] [Server thread/INFO]: kokosh lost connection: Disconnected
-[18:16:07] [Server thread/INFO]: kokosh left the game
-[18:25:34] [User Authenticator #5/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[18:25:34] [Server thread/INFO]: kokosh[/127.0.0.1:54086] logged in with entity id 682179 at (-277.36980205269737, 64.0, 225.88847033438958)
-[18:25:34] [Server thread/INFO]: kokosh joined the game
-[18:31:47] [Server thread/INFO]: kokosh fell off a ladder
-[19:01:13] [Server thread/INFO]: kokosh fell from a high place
-[19:12:03] [Server thread/INFO]: Addicted2Life has made the advancement [Hot Stuff]
-[19:32:30] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
-[19:32:30] [Server thread/INFO]: Addicted2Life left the game
-[19:32:44] [User Authenticator #6/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
-[19:32:44] [Server thread/INFO]: Addicted2Life[/193.0.211.194:62156] logged in with entity id 916513 at (-133.4283379379164, 22.0, 230.82065607763096)
-[19:32:44] [Server thread/INFO]: Addicted2Life joined the game
-[19:43:17] [Server thread/INFO]: Addicted2Life has made the advancement [Ice Bucket Challenge]
-[19:52:07] [Server thread/INFO]: kokosh fell from a high place
-[19:54:13] [Server thread/INFO]: kokosh fell from a high place
-[20:08:14] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
-[20:08:14] [Server thread/INFO]: Addicted2Life left the game
-[20:13:42] [Server thread/INFO]: kokosh lost connection: Disconnected
-[20:13:42] [Server thread/INFO]: kokosh left the game
-[20:13:50] [Server Shutdown Thread/INFO]: Stopping server
-[20:13:50] [Server Shutdown Thread/INFO]: Saving players
-[20:13:50] [Server Shutdown Thread/INFO]: Saving worlds
-[20:13:50] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:13:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:13:51] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:23:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:23:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:23:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:23:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:23:59] [main/INFO]: Loaded 0 recipes
+[12:23:59] [main/INFO]: Loaded 0 advancements
+[12:23:59] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[12:23:59] [Server thread/INFO]: Loading properties
+[12:23:59] [Server thread/INFO]: Default game type: SURVIVAL
+[12:23:59] [Server thread/INFO]: Generating keypair
+[12:23:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:23:59] [Server thread/INFO]: Using default channel type
+[12:24:01] [Server thread/INFO]: Preparing level "world"
+[12:24:01] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:24:02] [Server thread/INFO]: Loaded 524 recipes
+[12:24:03] [Server thread/INFO]: Loaded 571 advancements
+[12:24:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:24:03] [Server thread/INFO]: Preparing spawn area: 4%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 8%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 12%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 16%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 20%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 24%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 28%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 32%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 36%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 40%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 44%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 48%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 52%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 56%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 60%
+[12:24:04] [Server thread/INFO]: Preparing spawn area: 64%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 68%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 72%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 76%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 80%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 84%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 88%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 92%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 96%
+[12:24:05] [Server thread/INFO]: Preparing spawn area: 100%
+[12:24:05] [Server thread/INFO]: Time elapsed: 2084 ms
+[12:24:05] [Server thread/INFO]: Done (4.170s)! For help, type "help"
+[12:26:26] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[12:26:26] [Server thread/INFO]: kokosh[/127.0.0.1:51013] logged in with entity id 362 at (-387.9830344140246, 170.0, 162.7760972489088)
+[12:26:26] [Server thread/INFO]: kokosh joined the game
+[13:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
+[13:14:39] [Server thread/WARN]: kokosh moved too quickly! -0.4496460755112821,1.0,10.026133688058792
+[13:18:58] [User Authenticator #2/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
+[13:18:58] [Server thread/INFO]: Addicted2Life[/193.0.211.194:57201] logged in with entity id 434793 at (-389.69999998807907, 65.0, 156.57811319257306)
+[13:18:58] [Server thread/INFO]: Addicted2Life joined the game
+[13:19:14] [Server thread/INFO]: <Addicted2Life> siema
+[13:19:20] [Server thread/INFO]: <kokosh> hi
+[13:24:29] [Server thread/INFO]: Addicted2Life has made the advancement [A Seedy Place]
+[13:24:50] [Server thread/INFO]: <Addicted2Life> Pog
+[13:26:29] [Server thread/INFO]: <kokosh> nie wbijasz?
+[13:32:43] [Server thread/INFO]: Addicted2Life has made the advancement [The Parrots and the Bats]
+[13:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[13:42:18] [Server thread/INFO]: kokosh has made the advancement [What a Deal!]
+[14:02:49] [Server thread/INFO]: kokosh lost connection: Disconnected
+[14:02:49] [Server thread/INFO]: kokosh left the game
+[14:08:40] [User Authenticator #3/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[14:08:40] [Server thread/INFO]: kokosh[/127.0.0.1:51634] logged in with entity id 580689 at (283.5060797817031, 63.0, 1286.4484353045868)
+[14:08:40] [Server thread/INFO]: kokosh joined the game
+[14:09:23] [Server thread/INFO]: kokosh drowned
+[14:37:15] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
+[14:37:15] [Server thread/INFO]: Addicted2Life left the game
+[14:50:23] [User Authenticator #4/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
+[14:50:23] [Server thread/INFO]: Addicted2Life[/193.0.211.194:55126] logged in with entity id 1128079 at (-276.69999998807907, 64.0, 233.64812973976947)
+[14:50:23] [Server thread/INFO]: Addicted2Life joined the game
+[15:00:32] [Server thread/INFO]: kokosh fell from a high place
+[15:48:46] [Server thread/INFO]: kokosh fell from a high place
+[15:49:38] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
+[15:49:38] [Server thread/INFO]: Addicted2Life left the game
+[15:50:36] [Server thread/INFO]: kokosh lost connection: Disconnected
+[15:50:36] [Server thread/INFO]: kokosh left the game
+[15:54:45] [User Authenticator #5/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[15:54:46] [Server thread/INFO]: kokosh[/127.0.0.1:52175] logged in with entity id 1653636 at (-276.2505298907145, 64.0, 201.36159968837055)
+[15:54:46] [Server thread/INFO]: kokosh joined the game
+[16:06:03] [User Authenticator #6/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
+[16:06:03] [Server thread/INFO]: Addicted2Life[/193.0.211.194:55248] logged in with entity id 2268101 at (-277.30000001192093, 63.0, 234.30000001192093)
+[16:06:03] [Server thread/INFO]: Addicted2Life joined the game
+[16:20:23] [Server thread/INFO]: kokosh fell from a high place
+[16:20:25] [Server thread/WARN]: kokosh moved too quickly! -0.8658044024368223,-14.899993896484375,45.458484151790444
+[17:04:02] [Server thread/INFO]: kokosh fell from a high place
+[17:07:29] [Server thread/INFO]: kokosh fell from a high place
+[17:25:46] [Server thread/INFO]: kokosh fell from a high place
+[17:26:06] [Server thread/INFO]: kokosh fell from a high place
+[17:39:55] [Server thread/INFO]: kokosh fell from a high place
+[17:57:16] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
+[17:57:16] [Server thread/INFO]: Addicted2Life left the game
+[17:58:00] [User Authenticator #7/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
+[17:58:00] [Server thread/INFO]: Addicted2Life[/193.0.211.194:51815] logged in with entity id 3279815 at (-306.39500785325873, 65.0, 184.7337817554974)
+[17:58:00] [Server thread/INFO]: Addicted2Life joined the game
+[17:58:09] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
+[17:58:09] [Server thread/INFO]: Addicted2Life left the game
+[17:58:40] [User Authenticator #8/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
+[17:58:40] [Server thread/INFO]: Addicted2Life[/193.0.211.194:51819] logged in with entity id 3281003 at (-306.39500785325873, 64.0, 184.7337817554974)
+[17:58:40] [Server thread/INFO]: Addicted2Life joined the game
+[17:59:36] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
+[17:59:36] [Server thread/INFO]: Addicted2Life left the game
+[17:59:38] [Server thread/INFO]: kokosh lost connection: Disconnected
+[17:59:38] [Server thread/INFO]: kokosh left the game
+[17:59:46] [Server Shutdown Thread/INFO]: Stopping server
+[17:59:46] [Server Shutdown Thread/INFO]: Saving players
+[17:59:46] [Server Shutdown Thread/INFO]: Saving worlds
+[17:59:46] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:59:46] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:59:46] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
