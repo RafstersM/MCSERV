@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2018-11-17 23:12:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-11-03 13:14:41 +0100"
@@ -390,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-11-17 18:54:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2018-11-03 13:56:49 +0100"
@@ -462,13 +474,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:20:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:20:58 +0100"
     },
@@ -673,6 +685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-11-17 20:54:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-11-03 13:10:47 +0100"
@@ -871,13 +889,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
@@ -886,6 +904,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2018-11-03 17:23:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2018-11-17 19:00:44 +0100"
     },
     "done": true
   },
@@ -900,6 +924,7 @@
       "minecraft:skeleton": "2018-11-03 13:39:05 +0100",
       "minecraft:phantom": "2018-11-04 18:28:32 +0100",
       "minecraft:witch": "2018-11-03 13:40:24 +0100",
+      "minecraft:zombie_pigman": "2018-11-17 18:54:27 +0100",
       "minecraft:enderman": "2018-11-03 16:32:40 +0100",
       "minecraft:spider": "2018-11-03 15:59:34 +0100",
       "minecraft:zombie": "2018-11-03 13:28:18 +0100",
@@ -1368,6 +1393,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2018-11-03 13:47:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2018-11-17 19:00:44 +0100"
     },
     "done": true
   },
