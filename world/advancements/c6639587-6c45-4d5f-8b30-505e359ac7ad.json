@@ -387,9 +387,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2018-11-23 19:00:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2018-11-03 14:10:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-11-23 19:00:21 +0100"
     },
     "done": true
   },
@@ -897,8 +909,8 @@
       "minecraft:phantom": "2018-11-03 18:58:47 +0100",
       "minecraft:witch": "2018-11-04 16:00:30 +0100",
       "minecraft:cave_spider": "2018-11-03 16:39:10 +0100",
-      "minecraft:enderman": "2018-11-03 18:02:09 +0100",
       "minecraft:silverfish": "2018-11-04 15:36:04 +0100",
+      "minecraft:enderman": "2018-11-03 18:02:09 +0100",
       "minecraft:spider": "2018-11-03 15:02:46 +0100",
       "minecraft:zombie": "2018-11-03 13:43:13 +0100",
       "minecraft:creeper": "2018-11-04 15:52:31 +0100",
@@ -1115,6 +1127,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-11-03 14:33:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-11-23 21:43:32 +0100"
     },
     "done": true
   },
@@ -1454,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2018-11-23 19:00:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-11-03 18:23:28 +0100"
@@ -1594,8 +1618,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-11-03 14:52:16 +0100",
       "minecraft:forest": "2018-11-03 13:03:00 +0100",
+      "minecraft:mountains": "2018-11-03 14:52:16 +0100",
       "minecraft:taiga": "2018-11-04 17:14:28 +0100",
       "minecraft:taiga_hills": "2018-11-04 17:29:17 +0100",
       "minecraft:birch_forest": "2018-11-11 18:16:35 +0100",
@@ -1792,6 +1816,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 17:25:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2018-11-23 18:55:49 +0100"
     },
     "done": true
   },

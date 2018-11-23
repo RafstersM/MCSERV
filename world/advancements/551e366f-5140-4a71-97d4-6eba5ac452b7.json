@@ -125,15 +125,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2018-11-04 16:11:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2018-11-04 16:11:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-11-04 16:11:50 +0100"
     },
     "done": true
   },
@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-11-23 21:20:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-11-03 13:35:53 +0100",
@@ -558,6 +564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-11-23 21:20:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-11-03 13:14:41 +0100"
@@ -670,6 +682,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2018-11-03 13:56:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2018-11-23 21:07:15 +0100"
     },
     "done": true
   },
@@ -913,13 +931,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
@@ -1522,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-11-23 21:20:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-11-03 13:55:28 +0100"
@@ -1686,15 +1710,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-11-08 18:20:02 +0100",
       "minecraft:forest": "2018-11-03 13:10:28 +0100",
+      "minecraft:mountains": "2018-11-08 18:20:02 +0100",
       "minecraft:taiga": "2018-11-12 13:37:00 +0100",
       "minecraft:taiga_hills": "2018-11-12 14:12:32 +0100",
       "minecraft:birch_forest": "2018-11-08 18:20:54 +0100",
       "minecraft:beach": "2018-11-12 12:58:36 +0100",
       "minecraft:dark_forest": "2018-11-12 12:45:20 +0100",
-      "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
       "minecraft:river": "2018-11-03 16:05:36 +0100",
+      "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
+      "minecraft:birch_forest_hills": "2018-11-23 18:37:13 +0100",
       "minecraft:wooded_mountains": "2018-11-07 19:41:22 +0100",
       "minecraft:wooded_hills": "2018-11-03 13:51:21 +0100",
       "minecraft:stone_shore": "2018-11-12 13:21:09 +0100",
@@ -1748,6 +1773,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2018-11-03 17:23:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2018-11-23 21:07:15 +0100"
     },
     "done": true
   },
@@ -1811,6 +1842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-11-23 21:07:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2018-11-04 18:28:32 +0100"
@@ -1826,6 +1863,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2018-11-03 16:30:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-11-23 21:07:15 +0100"
     },
     "done": true
   },
@@ -1874,6 +1917,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 16:45:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2018-11-23 19:46:29 +0100"
     },
     "done": true
   },
