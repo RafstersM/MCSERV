@@ -1,4 +1,57 @@
-[00:05:49] [Server thread/INFO]: kokosh was slain by Zombie
-[00:21:52] [Server thread/INFO]: kokosh lost connection: Disconnected
-[00:21:52] [Server thread/INFO]: kokosh left the game
-[00:21:54] [Server Shutdown Thread/INFO]: Stopping server
+[00:38:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:38:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:38:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:38:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:38:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:38:22] [main/INFO]: Loaded 0 recipes
+[00:38:22] [main/INFO]: Loaded 0 advancements
+[00:38:22] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[00:38:22] [Server thread/INFO]: Loading properties
+[00:38:22] [Server thread/INFO]: Default game type: SURVIVAL
+[00:38:22] [Server thread/INFO]: Generating keypair
+[00:38:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:38:23] [Server thread/INFO]: Using default channel type
+[00:38:24] [Server thread/INFO]: Preparing level "world"
+[00:38:24] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:38:25] [Server thread/INFO]: Loaded 524 recipes
+[00:38:26] [Server thread/INFO]: Loaded 571 advancements
+[00:38:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 4%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 8%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 12%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 16%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 20%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 24%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 28%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 32%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 36%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 40%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 44%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 48%
+[00:38:26] [Server thread/INFO]: Preparing spawn area: 52%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 56%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 60%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 64%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 68%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 72%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 76%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 80%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 84%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 88%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 92%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 96%
+[00:38:27] [Server thread/INFO]: Preparing spawn area: 100%
+[00:38:27] [Server thread/INFO]: Time elapsed: 1180 ms
+[00:38:27] [Server thread/INFO]: Done (3.093s)! For help, type "help"
+[00:42:08] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[00:42:08] [Server thread/INFO]: kokosh[/127.0.0.1:53927] logged in with entity id 490 at (-301.3556624086189, 66.0, 303.6016911489692)
+[00:42:08] [Server thread/INFO]: kokosh joined the game
+[00:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[08:50:08] [Server thread/INFO]: kokosh lost connection: Disconnected
+[08:50:08] [Server thread/INFO]: kokosh left the game
+[08:50:11] [Server Shutdown Thread/INFO]: Stopping server
+[08:50:11] [Server Shutdown Thread/INFO]: Saving players
+[08:50:11] [Server Shutdown Thread/INFO]: Saving worlds
+[08:50:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[08:50:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[08:50:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
