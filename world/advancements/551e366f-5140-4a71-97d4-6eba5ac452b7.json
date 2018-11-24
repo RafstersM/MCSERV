@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2018-11-24 12:37:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-11-03 17:00:34 +0100"
@@ -176,6 +182,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2018-11-03 16:48:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-11-24 11:14:14 +0100"
     },
     "done": true
   },
@@ -410,6 +422,7 @@
       "potato": "2018-11-12 12:35:19 +0100",
       "pumpkin_pie": "2018-11-08 20:12:27 +0100",
       "bread": "2018-11-03 18:02:37 +0100",
+      "melon_slice": "2018-11-24 11:14:56 +0100",
       "cooked_chicken": "2018-11-03 18:06:20 +0100"
     },
     "done": false
@@ -620,6 +633,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2018-11-24 13:42:05 +0100",
       "minecraft:chicken": "2018-11-03 17:50:44 +0100",
       "minecraft:sheep": "2018-11-03 17:07:25 +0100"
     },
@@ -943,13 +957,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
@@ -1057,6 +1071,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 16:45:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-11-24 11:14:14 +0100"
     },
     "done": true
   },
@@ -1459,6 +1479,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-03 16:45:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2018-11-24 12:37:10 +0100"
     },
     "done": true
   },
@@ -2079,6 +2105,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-11-03 13:14:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-11-24 11:14:14 +0100"
     },
     "done": true
   },

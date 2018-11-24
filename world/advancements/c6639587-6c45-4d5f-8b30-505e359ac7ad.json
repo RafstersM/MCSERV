@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-11-24 10:16:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-11-03 13:28:41 +0100"
@@ -365,7 +371,8 @@
       "cooked_mutton": "2018-11-03 13:50:39 +0100",
       "cooked_beef": "2018-11-04 14:01:59 +0100",
       "potato": "2018-11-17 23:06:16 +0100",
-      "pumpkin_pie": "2018-11-11 18:13:52 +0100"
+      "pumpkin_pie": "2018-11-11 18:13:52 +0100",
+      "melon_slice": "2018-11-24 10:21:40 +0100"
     },
     "done": false
   },
@@ -873,13 +880,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-03 18:31:51 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 18:31:51 +0100"
     },
@@ -909,8 +916,8 @@
       "minecraft:phantom": "2018-11-03 18:58:47 +0100",
       "minecraft:witch": "2018-11-04 16:00:30 +0100",
       "minecraft:cave_spider": "2018-11-03 16:39:10 +0100",
-      "minecraft:silverfish": "2018-11-04 15:36:04 +0100",
       "minecraft:enderman": "2018-11-03 18:02:09 +0100",
+      "minecraft:silverfish": "2018-11-04 15:36:04 +0100",
       "minecraft:spider": "2018-11-03 15:02:46 +0100",
       "minecraft:zombie": "2018-11-03 13:43:13 +0100",
       "minecraft:creeper": "2018-11-04 15:52:31 +0100",
@@ -982,6 +989,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 17:25:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-11-24 10:16:00 +0100"
     },
     "done": true
   },
@@ -1618,8 +1631,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-11-03 13:03:00 +0100",
       "minecraft:mountains": "2018-11-03 14:52:16 +0100",
+      "minecraft:forest": "2018-11-03 13:03:00 +0100",
       "minecraft:taiga": "2018-11-04 17:14:28 +0100",
       "minecraft:taiga_hills": "2018-11-04 17:29:17 +0100",
       "minecraft:birch_forest": "2018-11-11 18:16:35 +0100",
@@ -1948,6 +1961,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-11-03 13:29:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-11-24 10:16:00 +0100"
     },
     "done": true
   },
