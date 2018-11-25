@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-25 17:24:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2018-11-03 14:10:58 +0100"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-25 17:24:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2018-11-03 18:36:10 +0100"
@@ -466,13 +478,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:37:26 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:37:26 +0100"
     },
@@ -682,6 +694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-11-25 17:44:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2018-11-03 13:25:42 +0100"
@@ -745,6 +763,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2018-11-03 14:22:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-25 17:24:45 +0100"
     },
     "done": true
   },
@@ -916,8 +940,8 @@
       "minecraft:phantom": "2018-11-03 18:58:47 +0100",
       "minecraft:witch": "2018-11-04 16:00:30 +0100",
       "minecraft:cave_spider": "2018-11-03 16:39:10 +0100",
-      "minecraft:enderman": "2018-11-03 18:02:09 +0100",
       "minecraft:silverfish": "2018-11-04 15:36:04 +0100",
+      "minecraft:enderman": "2018-11-03 18:02:09 +0100",
       "minecraft:spider": "2018-11-03 15:02:46 +0100",
       "minecraft:zombie": "2018-11-03 13:43:13 +0100",
       "minecraft:creeper": "2018-11-04 15:52:31 +0100",
@@ -1134,6 +1158,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 17:25:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2018-11-25 17:24:45 +0100"
     },
     "done": true
   },
@@ -1631,8 +1661,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-11-03 14:52:16 +0100",
       "minecraft:forest": "2018-11-03 13:03:00 +0100",
+      "minecraft:mountains": "2018-11-03 14:52:16 +0100",
       "minecraft:taiga": "2018-11-04 17:14:28 +0100",
       "minecraft:taiga_hills": "2018-11-04 17:29:17 +0100",
       "minecraft:birch_forest": "2018-11-11 18:16:35 +0100",
