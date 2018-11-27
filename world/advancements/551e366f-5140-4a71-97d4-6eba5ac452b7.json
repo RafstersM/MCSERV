@@ -541,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2018-11-27 19:35:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2018-11-08 19:10:22 +0100"
@@ -963,15 +969,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2018-11-03 15:03:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/food/dried_kelp": {
     "criteria": {
-      "has_diamond": "2018-11-03 15:03:10 +0100"
+      "has_at_least_9_dried_kelp": "2018-11-27 22:56:28 +0100"
     },
     "done": true
   },
@@ -1413,6 +1425,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2018-11-03 18:54:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2018-11-27 19:35:31 +0100"
     },
     "done": true
   },
@@ -1974,6 +1992,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-11-03 17:30:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_at_least_9_dried_kelp": "2018-11-27 22:56:28 +0100"
     },
     "done": true
   },
