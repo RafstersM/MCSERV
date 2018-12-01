@@ -1,8 +1,8 @@
-[00:37:15] [Server thread/INFO]: kokosh lost connection: Disconnected
-[00:37:15] [Server thread/INFO]: kokosh left the game
-[00:37:24] [Server Shutdown Thread/INFO]: Stopping server
-[00:37:24] [Server Shutdown Thread/INFO]: Saving players
-[00:37:24] [Server Shutdown Thread/INFO]: Saving worlds
-[00:37:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:37:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:37:24] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:25:38] [Server thread/INFO]: kokosh lost connection: Disconnected
+[00:25:38] [Server thread/INFO]: kokosh left the game
+[00:25:47] [Server Shutdown Thread/INFO]: Stopping server
+[00:25:47] [Server Shutdown Thread/INFO]: Saving players
+[00:25:47] [Server Shutdown Thread/INFO]: Saving worlds
+[00:25:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:25:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:25:47] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld

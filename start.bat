@@ -1,1 +1,1 @@
-java -Xmx3096M -Xms3096M -jar server.jar nogui
+java -Xmx4096M -Xms4096M -jar server.jar nogui
