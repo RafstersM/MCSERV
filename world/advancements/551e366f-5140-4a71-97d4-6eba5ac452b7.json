@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-11-03 13:15:28 +0100"
@@ -290,6 +296,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-03 16:45:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
     },
     "done": true
   },
@@ -401,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2018-12-06 19:27:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-11-03 16:50:13 +0100"
@@ -416,6 +434,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2018-11-23 21:20:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
     },
     "done": true
   },
@@ -517,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2018-12-06 20:11:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 16:45:02 +0100"
@@ -529,13 +559,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:20:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:20:58 +0100"
     },
@@ -678,6 +708,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-11 19:39:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cactus_green": {
+    "criteria": {
+      "has_cactus": "2018-12-06 19:24:09 +0100"
     },
     "done": true
   },
@@ -909,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2018-12-06 19:27:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-03 16:45:02 +0100"
@@ -981,13 +1023,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
     },
@@ -1023,8 +1065,8 @@
       "minecraft:phantom": "2018-11-04 18:28:32 +0100",
       "minecraft:witch": "2018-11-03 13:40:24 +0100",
       "minecraft:zombie_pigman": "2018-11-17 18:54:27 +0100",
-      "minecraft:silverfish": "2018-12-01 13:49:41 +0100",
       "minecraft:enderman": "2018-11-03 16:32:40 +0100",
+      "minecraft:silverfish": "2018-12-01 13:49:41 +0100",
       "minecraft:spider": "2018-11-03 15:59:34 +0100",
       "minecraft:zombie": "2018-11-03 13:28:18 +0100",
       "minecraft:creeper": "2018-11-03 17:54:46 +0100",
@@ -1036,6 +1078,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
     },
     "done": true
   },
@@ -1120,6 +1168,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2018-11-21 22:07:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
     },
     "done": true
   },
@@ -1711,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2018-11-03 13:14:41 +0100"
@@ -1801,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2018-11-03 18:49:41 +0100"
@@ -1815,21 +1881,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-11-03 13:10:28 +0100",
+      "minecraft:jungle_edge": "2018-12-06 19:16:19 +0100",
       "minecraft:mountains": "2018-11-08 18:20:02 +0100",
+      "minecraft:forest": "2018-11-03 13:10:28 +0100",
       "minecraft:taiga": "2018-11-12 13:37:00 +0100",
+      "minecraft:desert_hills": "2018-12-06 19:18:23 +0100",
       "minecraft:taiga_hills": "2018-11-12 14:12:32 +0100",
+      "minecraft:desert": "2018-12-06 19:17:13 +0100",
+      "minecraft:jungle": "2018-12-06 19:16:20 +0100",
       "minecraft:birch_forest": "2018-11-08 18:20:54 +0100",
       "minecraft:deep_lukewarm_ocean": "2018-11-26 20:03:50 +0100",
+      "minecraft:savanna_plateau": "2018-12-06 19:16:35 +0100",
       "minecraft:beach": "2018-11-12 12:58:36 +0100",
       "minecraft:dark_forest": "2018-11-12 12:45:20 +0100",
-      "minecraft:river": "2018-11-03 16:05:36 +0100",
       "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
+      "minecraft:river": "2018-11-03 16:05:36 +0100",
       "minecraft:birch_forest_hills": "2018-11-23 18:37:13 +0100",
       "minecraft:wooded_mountains": "2018-11-07 19:41:22 +0100",
       "minecraft:wooded_hills": "2018-11-03 13:51:21 +0100",
       "minecraft:stone_shore": "2018-11-12 13:21:09 +0100",
       "minecraft:swamp": "2018-11-07 22:02:52 +0100",
+      "minecraft:savanna": "2018-12-06 19:15:59 +0100",
       "minecraft:plains": "2018-11-03 13:11:22 +0100"
     },
     "done": false
@@ -2125,6 +2197,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2018-11-21 20:55:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-06 19:27:58 +0100"
     },
     "done": true
   },

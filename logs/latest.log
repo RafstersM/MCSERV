@@ -1,54 +1,123 @@
-[19:43:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:43:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:43:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:43:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:43:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:43:12] [main/INFO]: Loaded 0 recipes
-[19:43:12] [main/INFO]: Loaded 0 advancements
-[19:43:12] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[19:43:12] [Server thread/INFO]: Loading properties
-[19:43:12] [Server thread/INFO]: Default game type: SURVIVAL
-[19:43:12] [Server thread/INFO]: Generating keypair
-[19:43:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:43:12] [Server thread/INFO]: Using default channel type
-[19:43:13] [Server thread/INFO]: Preparing level "world"
-[19:43:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:43:14] [Server thread/INFO]: Loaded 524 recipes
-[19:43:15] [Server thread/INFO]: Loaded 571 advancements
-[19:43:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 4%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 8%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 12%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 16%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 20%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 24%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 28%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 32%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 36%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 40%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 44%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 48%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 52%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 56%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 60%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 64%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 68%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 72%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 76%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 80%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 84%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 88%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 92%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 96%
-[19:43:16] [Server thread/INFO]: Preparing spawn area: 100%
-[19:43:16] [Server thread/INFO]: Time elapsed: 1032 ms
-[19:43:16] [Server thread/INFO]: Done (3.353s)! For help, type "help"
-[19:43:21] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[19:43:22] [Server thread/INFO]: kokosh[/127.0.0.1:64555] logged in with entity id 591 at (-292.5, 63.0, 249.5)
-[19:43:22] [Server thread/INFO]: kokosh joined the game
-[19:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[19:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21:55:04] [Server thread/INFO]: kokosh fell from a high place
-[22:21:46] [Server thread/INFO]: kokosh lost connection: Disconnected
-[22:21:46] [Server thread/INFO]: kokosh left the game
-[22:21:53] [Server Shutdown Thread/INFO]: Stopping server
+[18:53:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:53:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:53:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:53:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:53:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:53:43] [main/INFO]: Loaded 0 recipes
+[18:53:43] [main/INFO]: Loaded 0 advancements
+[18:53:43] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[18:53:43] [Server thread/INFO]: Loading properties
+[18:53:43] [Server thread/INFO]: Default game type: SURVIVAL
+[18:53:43] [Server thread/INFO]: Generating keypair
+[18:53:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:53:44] [Server thread/INFO]: Using default channel type
+[18:53:45] [Server thread/INFO]: Preparing level "world"
+[18:53:45] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:53:46] [Server thread/INFO]: Loaded 524 recipes
+[18:53:47] [Server thread/INFO]: Loaded 571 advancements
+[18:53:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 4%
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 8%
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 12%
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 16%
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 20%
+[18:53:47] [Server thread/INFO]: Preparing spawn area: 24%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 28%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 32%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 36%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 40%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 44%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 48%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 52%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 56%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 60%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 64%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 68%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 72%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 76%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 80%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 84%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 88%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 92%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 96%
+[18:53:48] [Server thread/INFO]: Preparing spawn area: 100%
+[18:53:48] [Server thread/INFO]: Time elapsed: 1488 ms
+[18:53:48] [Server thread/INFO]: Done (3.567s)! For help, type "help"
+[18:54:40] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[18:54:40] [Server thread/INFO]: kokosh[/127.0.0.1:50287] logged in with entity id 548 at (-444.5, 40.0, 148.5)
+[18:54:40] [Server thread/INFO]: kokosh joined the game
+[19:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 4.961798112874021,-0.07683200149536162,-9.238974690254736
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 5.150057554944851,-0.2274534586630068,-9.481343495532883
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 5.3331477458483505,-0.4489423104376016,-9.71675139648596
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 5.5128086844845825,-0.7384922093173572,-9.94495810609169
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 5.68993005077607,-1.0,-10.166264145419518
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 6.019206404300121,-1.0,-10.539302727822587
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 6.370349195911274,-1.0,-10.910967324624835
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 6.742810520187675,-1.0,-11.271535892143675
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 7.133687220775641,-1.0,-11.617799180334714
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 7.546931840752961,-1.0,-11.939307739112337
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 7.973916761987425,-1.0,-12.244878134327564
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 8.408942442032526,-1.0,-12.540852742299649
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 8.771470538351593,-1.0,-12.913371390252905
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 9.095206623064769,-1.0,-13.32684722787667
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 9.398185875796855,-1.0,-13.76223844109495
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 9.690058561582475,-1.0,-14.209356134848122
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 9.975988344836082,-1.0,-14.662748434534933
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 10.258738199433537,-1.0,-15.11949815075468
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 10.536403512080994,-1.0,-15.580057977335855
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 10.806803028067918,-1.0,-16.04525033333266
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 11.070431036257844,-1.0,-16.514502700177445
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 11.32697805038913,-1.0,-16.987759267822184
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 11.57973616577948,-1.0,-17.463158403479838
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 11.830466916995988,-1.0,-17.93970398456304
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 12.080112866064383,-1.0,-18.41686300573565
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 12.329178359131959,0.0,-18.8943502664697
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 12.588259855880835,0.0,-19.366332734693287
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 12.870909145719338,0.0,-19.82370810905263
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 13.191666364359662,0.0,-20.252722229798792
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 13.53946536019896,0.0,-20.660213391367506
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 13.901733871862575,0.0,-21.056188046601847
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 14.271744732952754,0.0,-21.446000448911263
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 14.64589837085532,0.0,-21.832515552542418
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 15.02226872603211,0.0,-22.217266337391948
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 15.394143598278788,0.0,-22.606524064214454
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 15.73927895417313,0.0,-23.01811887075064
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 15.986282847118105,0.0,-23.480864723419245
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.117849076951813,0.0,-23.97886145186726
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.18044638317184,0.0,-24.495599372700553
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.206139793458192,0.0,-25.022365331920582
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.212086664814763,0.0,-25.55449709454342
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.207467556893505,0.0,-26.089499991584944
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.199666396677173,0.0,-26.626039175409232
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.187690991167415,0.0,-27.16340039566103
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.293936654521872,0.0,-27.668927731639087
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.471346573628296,0.0,-28.153150330613244
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.6868350671254,0.0,-28.625973189587057
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 16.922698646574133,0.0,-29.092696274972923
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 17.168910883086596,0.0,-29.556466852891617
+[19:13:17] [Server thread/WARN]: Horse (vehicle of kokosh) moved too quickly! 17.417280426918524,0.0,-30.02051796820274
+[19:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:11:41] [Server thread/INFO]: kokosh has reached the goal [Hired Help]
+[21:32:49] [Server thread/INFO]: kokosh lost connection: Disconnected
+[21:32:49] [Server thread/INFO]: kokosh left the game
+[21:46:45] [User Authenticator #2/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[21:46:46] [Server thread/INFO]: kokosh[/127.0.0.1:51327] logged in with entity id 339173 at (-309.30000001192093, 63.0, 259.61728611822684)
+[21:46:46] [Server thread/INFO]: kokosh joined the game
+[22:03:11] [Server thread/INFO]: kokosh lost connection: Disconnected
+[22:03:11] [Server thread/INFO]: kokosh left the game
+[22:03:53] [User Authenticator #3/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[22:03:53] [Server thread/INFO]: kokosh[/127.0.0.1:51419] logged in with entity id 369453 at (-447.6274804778528, 17.0, 153.64428865473477)
+[22:03:53] [Server thread/INFO]: kokosh joined the game
+[22:45:51] [Server thread/INFO]: kokosh lost connection: Disconnected
+[22:45:51] [Server thread/INFO]: kokosh left the game
+[23:00:03] [User Authenticator #4/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[23:00:03] [Server thread/INFO]: kokosh[/127.0.0.1:51987] logged in with entity id 481799 at (-301.30000001192093, 62.875, 303.69999998807907)
+[23:00:03] [Server thread/INFO]: kokosh joined the game
+[23:47:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@516865b5[id=<null>,name=dustybee,properties={},legacy=false] (/82.217.183.47:58577) lost connection: Disconnected
+[23:49:40] [Server thread/INFO]: kokosh lost connection: Disconnected
+[23:49:40] [Server thread/INFO]: kokosh left the game
+[23:49:48] [User Authenticator #5/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[23:49:48] [Server thread/INFO]: kokosh[/127.0.0.1:52486] logged in with entity id 625448 at (-301.30000001192093, 62.875, 303.69999998807907)
+[23:49:48] [Server thread/INFO]: kokosh joined the game
+[23:53:19] [Server Shutdown Thread/INFO]: Stopping server
