@@ -1,8 +1,9 @@
-[07:06:33] [Server thread/INFO]: kokosh lost connection: Disconnected
-[07:06:33] [Server thread/INFO]: kokosh left the game
-[07:06:53] [Server Shutdown Thread/INFO]: Stopping server
-[07:06:53] [Server Shutdown Thread/INFO]: Saving players
-[07:06:53] [Server Shutdown Thread/INFO]: Saving worlds
-[07:06:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[07:06:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[07:06:54] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:13:24] [Server thread/WARN]: Fetching addPacket for removed entity
+[09:46:25] [Server thread/INFO]: kokosh lost connection: Disconnected
+[09:46:25] [Server thread/INFO]: kokosh left the game
+[09:46:36] [Server Shutdown Thread/INFO]: Stopping server
+[09:46:36] [Server Shutdown Thread/INFO]: Saving players
+[09:46:36] [Server Shutdown Thread/INFO]: Saving worlds
+[09:46:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:46:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:46:36] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
