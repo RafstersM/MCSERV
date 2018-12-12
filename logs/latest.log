@@ -1,79 +1,268 @@
-[11:26:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:26:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:26:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:26:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:26:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:26:12] [main/INFO]: Loaded 0 recipes
-[11:26:12] [main/INFO]: Loaded 0 advancements
-[11:26:13] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[11:26:13] [Server thread/INFO]: Loading properties
-[11:26:13] [Server thread/INFO]: Default game type: SURVIVAL
-[11:26:13] [Server thread/INFO]: Generating keypair
-[11:26:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:26:13] [Server thread/INFO]: Using default channel type
-[11:26:14] [Server thread/INFO]: Preparing level "world"
-[11:26:14] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:26:15] [Server thread/INFO]: Loaded 524 recipes
-[11:26:15] [Server thread/INFO]: Loaded 571 advancements
-[11:26:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:26:15] [Server thread/INFO]: Preparing spawn area: 4%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 8%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 12%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 16%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 20%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 24%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 28%
-[11:26:16] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 32%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 36%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 40%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 44%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 48%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 52%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 56%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 60%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 64%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 68%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 72%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 76%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 80%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 84%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 88%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 92%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 96%
-[11:26:16] [Server thread/INFO]: Preparing spawn area: 100%
-[11:26:16] [Server thread/INFO]: Time elapsed: 889 ms
-[11:26:16] [Server thread/INFO]: Done (2.041s)! For help, type "help"
-[11:26:29] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[11:26:29] [Server thread/INFO]: kokosh[/192.168.1.3:54358] logged in with entity id 603 at (-306.69999998807907, 63.0, 259.61384854428263)
-[11:26:29] [Server thread/INFO]: kokosh joined the game
-[12:04:58] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[12:25:21] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[12:32:22] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[12:33:01] [Server thread/INFO]: kokosh lost connection: Disconnected
-[12:33:01] [Server thread/INFO]: kokosh left the game
-[12:42:52] [User Authenticator #2/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[12:42:53] [Server thread/INFO]: kokosh[/192.168.1.3:54954] logged in with entity id 139858 at (-279.9626914785262, 103.0, 240.9534939634353)
-[12:42:53] [Server thread/INFO]: kokosh joined the game
-[12:42:53] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[12:47:24] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[12:52:24] [Server thread/INFO]: kokosh has made the advancement [Into Fire]
-[13:01:04] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[13:18:54] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[19:23:58] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[19:25:20] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[20:02:22] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[21:30:26] [Server thread/INFO]: kokosh lost connection: Disconnected
-[21:30:26] [Server thread/INFO]: kokosh left the game
-[21:30:38] [Server thread/INFO]: Stopping server
-[21:30:38] [Server thread/INFO]: Saving players
-[21:30:38] [Server thread/INFO]: Saving worlds
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:30:38] [Server Shutdown Thread/INFO]: Stopping server
-[21:30:38] [Server Shutdown Thread/INFO]: Saving players
-[21:30:38] [Server Shutdown Thread/INFO]: Saving worlds
-[21:30:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:30:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:30:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:42:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:42:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:42:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:42:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:42:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:42:05] [main/INFO]: Loaded 0 recipes
+[19:42:05] [main/INFO]: Loaded 0 advancements
+[19:42:05] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[19:42:05] [Server thread/INFO]: Loading properties
+[19:42:05] [Server thread/INFO]: Default game type: SURVIVAL
+[19:42:05] [Server thread/INFO]: Generating keypair
+[19:42:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:42:06] [Server thread/INFO]: Using default channel type
+[19:42:07] [Server thread/INFO]: Preparing level "world"
+[19:42:07] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:42:08] [Server thread/INFO]: Loaded 524 recipes
+[19:42:09] [Server thread/INFO]: Loaded 571 advancements
+[19:42:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:42:09] [Server thread/INFO]: Preparing spawn area: 4%
+[19:42:09] [Server thread/INFO]: Preparing spawn area: 8%
+[19:42:09] [Server thread/INFO]: Preparing spawn area: 12%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 16%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 20%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 24%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 28%
+[19:42:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 32%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 36%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 40%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 44%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 48%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 52%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 56%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 60%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 64%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 68%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 72%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 76%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 80%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 84%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 88%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 92%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 96%
+[19:42:10] [Server thread/INFO]: Preparing spawn area: 100%
+[19:42:10] [Server thread/INFO]: Time elapsed: 995 ms
+[19:42:10] [Server thread/INFO]: Done (3.151s)! For help, type "help"
+[19:42:16] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[19:42:16] [Server thread/INFO]: kokosh[/127.0.0.1:52706] logged in with entity id 545 at (-452.0040322128235, 61.5625, 167.9859522612121)
+[19:42:16] [Server thread/INFO]: kokosh joined the game
+[19:42:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
+[20:08:44] [Server thread/INFO]: kokosh has made the advancement [Eye Spy]
+[21:20:03] [User Authenticator #2/INFO]: UUID of player Addicted2Life is c6639587-6c45-4d5f-8b30-505e359ac7ad
+[21:20:04] [Server thread/INFO]: Addicted2Life[/193.0.211.194:61640] logged in with entity id 77987 at (-271.30000001192093, 72.0, 305.30000001192093)
+[21:20:04] [Server thread/INFO]: Addicted2Life joined the game
+[21:20:04] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[21:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[21:20:18] [Server thread/INFO]: <Addicted2Life> music disc PogChamp
+[21:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[21:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2830ms or 56 ticks behind
+[21:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:21:19] [Server thread/INFO]: <kokosh> wrocic sie zeby przetestowac disc? xD
+[21:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:21:27] [Server thread/INFO]: <Addicted2Life> nie no xD
+[21:21:36] [Server thread/INFO]: <kokosh> moglbym
+[21:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
+[21:21:45] [Server thread/INFO]: <kokosh> tu i tak lipa bo mi braklo enderman dropow
+[21:21:56] [Server thread/INFO]: <kokosh> tylko musisz mi dac ze 3 minuty
+[21:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[21:22:01] [Server thread/INFO]: <kokosh> to wroce przez nether
+[21:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[21:22:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4695ms or 93 ticks behind
+[21:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6384ms or 127 ticks behind
+[21:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[21:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[21:23:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[21:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[21:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3511ms or 70 ticks behind
+[21:24:45] [Server thread/INFO]: <kokosh> ok jestem
+[21:24:52] [Server thread/INFO]: <Addicted2Life> mamy wlasne lozka PogChamp
+[21:24:57] [Server thread/INFO]: <kokosh> xD
+[21:25:29] [Server thread/INFO]: <kokosh> trza wlaczyc muzyke pewnie w opcjach
+[21:25:30] [Server thread/INFO]: <kokosh> xD
+[21:25:42] [Server thread/INFO]: <kokosh> puszczam
+[21:25:57] [Server thread/INFO]: <kokosh> Kreygasm
+[21:26:13] [Server thread/INFO]: <kokosh> kurna wt
+[21:26:15] [Server thread/INFO]: <kokosh> wtf
+[21:26:19] [Server thread/INFO]: <kokosh> gra tez generic
+[21:26:20] [Server thread/INFO]: <kokosh> xD
+[21:26:37] [Server thread/INFO]: <kokosh> aa to nie music
+[21:26:41] [Server thread/INFO]: <kokosh> to jukebox slider
+[21:26:48] [Server thread/INFO]: <kokosh> nice
+[21:27:40] [Server thread/INFO]: <Addicted2Life> funky
+[21:27:49] [Server thread/INFO]: <kokosh> no
+[21:29:17] [Server thread/INFO]: <kokosh> kurna
+[21:29:22] [Server thread/INFO]: <kokosh> potrzeba bylo funky music
+[21:29:26] [Server thread/INFO]: <kokosh> zeby cie tu sciagnac
+[21:29:27] [Server thread/INFO]: <kokosh> xD
+[21:29:35] [Server thread/INFO]: <Addicted2Life> xD
+[21:29:50] [Server thread/INFO]: <kokosh> nawet nie odebrales swojego mikolajowego prezentu xD
+[21:30:30] [Server thread/INFO]: <Addicted2Life> jest tam bezpieczny
+[21:30:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:31:12] [Server thread/INFO]: <Addicted2Life> to K E L P
+[21:31:18] [Server thread/INFO]: <kokosh> nie
+[21:31:21] [Server thread/INFO]: <kokosh> to WEGIEL
+[21:31:23] [Server thread/INFO]: <kokosh> xD
+[21:31:57] [Server thread/INFO]: <Addicted2Life> musze przyznac kokosz
+[21:32:00] [Server thread/INFO]: <kokosh> ale moje najwieksze osiagniecie jest gdzie indziej
+[21:32:09] [Server thread/INFO]: <Addicted2Life> jednak nie jestes mammoni after all
+[21:32:17] [Server thread/INFO]: <kokosh> nie wiem nadal co to
+[21:32:19] [Server thread/INFO]: <kokosh> ale thx
+[21:32:33] [Server thread/INFO]: <Addicted2Life> maminsynek
+[21:32:36] [Server thread/INFO]: <kokosh> xD
+[21:32:37] [Server thread/INFO]: <Addicted2Life> xD
+[21:32:53] [Server thread/INFO]: <kokosh> chcesz tour mojego najwiekszego osiagniecia?
+[21:32:55] [Server thread/INFO]: <Addicted2Life> gdzie sa osiagniecia wieksze niz zycie
+[21:33:09] [Server thread/INFO]: <kokosh> meet me in front of moria
+[21:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:34:25] [Server thread/INFO]: <kokosh> zgubiles sie
+[21:34:43] [Server thread/INFO]: <kokosh> nie masz zarcia?
+[21:34:50] [Server thread/INFO]: <kokosh> ok tu
+[21:34:54] [Server thread/INFO]: <kokosh> piekne nie?
+[21:35:04] [Server thread/INFO]: <kokosh> Keepo
+[21:35:19] [Server thread/INFO]: <kokosh> tu
+[21:35:30] [Server thread/INFO]: <kokosh> hej
+[21:35:32] [Server thread/INFO]: <kokosh> tu
+[21:35:33] [Server thread/INFO]: <kokosh> xD
+[21:36:29] [Server thread/INFO]: <Addicted2Life> spotkajmy sie w fabryce dyni
+[21:36:47] [Server thread/INFO]: <kokosh> to nie fabryki dyni
+[21:36:53] [Server thread/INFO]: <kokosh> to fabryka slimow
+[21:36:54] [Server thread/INFO]: <kokosh> xD
+[21:37:12] [Server thread/INFO]: <Addicted2Life> tylko sie tak nazywa
+[21:37:34] [Server thread/INFO]: <kokosh> kopanie tej dziury
+[21:37:37] [Server thread/INFO]: <kokosh> to byl taki pain
+[21:37:38] [Server thread/INFO]: <kokosh> xD
+[21:37:52] [Server thread/INFO]: <Addicted2Life> xD
+[21:37:58] [Server thread/INFO]: <Addicted2Life> to cale facility
+[21:38:05] [Server thread/INFO]: <kokosh> no
+[21:38:22] [Server thread/INFO]: <kokosh> stojac u gory nie blokuje sie spawna na samym dole
+[21:38:32] [Server thread/INFO]: <kokosh> wiec mozna zobaczyc umierajacego slima!
+[21:38:33] [Server thread/INFO]: <kokosh> xD
+[21:39:06] [Server thread/INFO]: <kokosh> w sumie to mialem nadzieje ze ty albo rafsters kiedys wbijecie z ochota na przygode
+[21:39:16] [Server thread/INFO]: <kokosh> i porozswietlacie okoliczne jaskinie
+[21:39:30] [Server thread/INFO]: <kokosh> ale ostatecznie sam troche tego zrobilem a wiecej mi sie nie chcialo xD
+[21:39:56] [Server thread/INFO]: <Addicted2Life> ja czekam na auto obcinanie owiec patcha
+[21:40:01] [Server thread/INFO]: <Addicted2Life> xD
+[21:40:04] [Server thread/INFO]: <kokosh> ta jasne
+[21:40:16] [Server thread/INFO]: <kokosh> wiesz ze to by wymagalo restartu mapy na 99%? xD
+[21:40:23] [Server thread/INFO]: <Addicted2Life> xD
+[21:41:21] [Server thread/INFO]: <kokosh> w sumie
+[21:41:28] [Server thread/INFO]: <kokosh> to ja se zainstalowalem skina
+[21:41:35] [Server thread/INFO]: <kokosh> zeby miec szklo bardziej przezroczyste
+[21:41:37] [Server thread/INFO]: <kokosh> xD
+[21:41:56] [Server thread/INFO]: <Addicted2Life> cheater
+[21:42:12] [Server thread/INFO]: <kokosh> oh well nic sie nie spawni bo jestesmy za blisko i tylko dolny layer dziala
+[21:42:50] [Server thread/INFO]: <kokosh> zeby dzialaly wszystkie kampi sie w tym domku na powierzchni
+[21:42:57] [Server thread/INFO]: <Addicted2Life> to elaborate scam
+[21:43:00] [Server thread/INFO]: <Addicted2Life> xD
+[21:43:16] [Server thread/INFO]: <kokosh> ja widzialem pare slimow tu
+[21:43:20] [Server thread/INFO]: <kokosh> istnieja!
+[21:43:21] [Server thread/INFO]: <kokosh> xD
+[21:43:32] [Server thread/INFO]: <kokosh> ale nie musimy czekac
+[21:43:33] [Server thread/INFO]: <Addicted2Life> w nocy podrzucach ich dropy do skrzyni
+[21:43:43] [Server thread/INFO]: <kokosh> ta
+[21:43:49] [Server thread/INFO]: <kokosh> a biore je z dupy
+[21:43:50] [Server thread/INFO]: <kokosh> xD
+[21:44:03] [Server thread/INFO]: <kokosh> shit
+[21:44:04] [Server thread/INFO]: <kokosh> jest noc
+[21:44:16] [Server thread/INFO]: <kokosh> wiec mobki na powierzchni zabieraja spawny xD
+[21:44:40] [Server thread/INFO]: <kokosh> oczywiscie nie mam lozka
+[21:44:41] [Server thread/INFO]: <kokosh> xD
+[21:44:42] [Server thread/INFO]: kokosh lost connection: Disconnected
+[21:44:42] [Server thread/INFO]: kokosh left the game
+[21:44:47] [User Authenticator #3/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[21:44:47] [Server thread/INFO]: kokosh[/127.0.0.1:53640] logged in with entity id 146602 at (-451.9308774228179, 61.5625, 168.2475382094895)
+[21:44:47] [Server thread/INFO]: kokosh joined the game
+[21:45:08] [Server thread/INFO]: <Addicted2Life> Pog
+[21:45:11] [Server thread/INFO]: <kokosh> xD
+[21:46:13] [Server thread/INFO]: <kokosh> dzisiaj se znalazlem uzywajac stronki na necie i seeda stronghold
+[21:46:18] [Server thread/INFO]: <kokosh> bo chce isc do endu
+[21:46:30] [Server thread/INFO]: <kokosh> sa tak daleko ze trza lazic przez nether
+[21:46:58] [Server thread/INFO]: <kokosh> uznalem ze chyba przejde gre i skoncze bo samemu to lipa xD
+[21:47:23] [Server thread/INFO]: <Addicted2Life> co w minecrafcie jest przejsciem gry
+[21:47:35] [Server thread/INFO]: <kokosh> zabicie po raz pierwszy ender dragona
+[21:47:44] [Server thread/INFO]: <kokosh> dostajesz napisy koncowe
+[21:47:54] [Server thread/INFO]: <kokosh> w endzie sa zajebiste itemki
+[21:48:04] [Server thread/INFO]: <kokosh> np peleryna do tego divingu
+[21:48:07] [Server thread/INFO]: <kokosh> co sie tak lata
+[21:48:15] [Server thread/INFO]: <kokosh> budujesz wtedy farerwerki
+[21:48:19] [Server thread/INFO]: <kokosh> i latasz se
+[21:48:34] [Server thread/INFO]: <kokosh> i item ktory ci przerabia skrzynke na przenoszalna skrzynke
+[21:48:49] [Server thread/INFO]: <kokosh> mozesz miec w plecaku 27 skrzynek z 13 slotami na 64 itemy
+[21:49:04] [Server thread/INFO]: <kokosh> i skrzynka ktora ma ta sama zawartosc gdziekolwiek jak otworzysz
+[21:49:06] [Server thread/INFO]: <Addicted2Life> OP
+[21:49:10] [Server thread/INFO]: <kokosh> taki super late game
+[21:49:15] [Server thread/INFO]: <kokosh> no ale
+[21:49:18] [Server thread/INFO]: <kokosh> duzo roboty
+[21:49:22] [Server thread/INFO]: <kokosh> i samemu nudno
+[21:50:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:51:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[21:51:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[21:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
+[21:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:52:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:55:33] [Server thread/INFO]: <kokosh> wiesz co jest jeszcze op?
+[21:55:35] [Server thread/INFO]: <kokosh> mending
+[21:55:40] [Server thread/INFO]: <kokosh> jestem w full diamencie
+[21:55:45] [Server thread/INFO]: <kokosh> wlacznie z narzedziami
+[21:55:53] [Server thread/INFO]: <kokosh> i jeszcze nigdy niczego nie musialem robic nowego xD
+[21:56:09] [Server thread/INFO]: <kokosh> do netheru nie chodzilem na poczatku w diamencie bo sie balem
+[21:56:20] [Server thread/INFO]: <kokosh> ale w sumie to ani razu tam nawet w zelazie nie zginalem odkad mam luk
+[21:56:33] [Server thread/INFO]: <kokosh> tylko lipa jest taka ze mending nie dziala z infinity
+[21:56:50] [Server thread/INFO]: <kokosh> wizytacja xD
+[21:56:59] [Server thread/INFO]: <Addicted2Life> xD
+[21:58:42] [Server thread/INFO]: <Addicted2Life> tutaj jest fajny industrial sector
+[21:58:44] [Server thread/INFO]: <kokosh> zniknal
+[21:58:48] [Server thread/INFO]: <Addicted2Life> przy golemach
+[21:59:06] [Server thread/INFO]: <kokosh> no taki sie zrobil fajny w sumie
+[21:59:11] [Server thread/INFO]: <kokosh> slime zrobilem daleko
+[21:59:21] [Server thread/INFO]: <kokosh> bo to trza w odpowiednim chunku
+[21:59:28] [Server thread/INFO]: <kokosh> i chcialem zeby byly daleko od mobspawnera
+[21:59:34] [Server thread/INFO]: <Addicted2Life> slime to i tak dziura w glebie
+[21:59:40] [Server thread/INFO]: <kokosh> no true
+[21:59:58] [Server thread/INFO]: <Addicted2Life> musialby byc caly roof ze szkla
+[22:00:01] [Server thread/INFO]: <Addicted2Life> xD
+[22:00:08] [Server thread/INFO]: <kokosh> taki byl plan
+[22:00:15] [Server thread/INFO]: <kokosh> ale juz mi sie nie chcialo kopac
+[22:00:36] [Server thread/INFO]: <kokosh> a myslalem ze i tak nikt tego nie zobaczy to po co bede robil na tylko swoje pogchampy
+[22:00:37] [Server thread/INFO]: <kokosh> xD
+[22:01:37] [Server thread/INFO]: <Addicted2Life> Pog
+[22:02:16] [Server thread/INFO]: <kokosh> btw
+[22:02:19] [Server thread/INFO]: <kokosh> ta pulapka
+[22:02:23] [Server thread/INFO]: <kokosh> nie wiem kiedys ja zrobil
+[22:02:26] [Server thread/INFO]: <Addicted2Life> xD
+[22:02:30] [Server thread/INFO]: <kokosh> ale dostalem prawie zawalu nie raz a dwa
+[22:02:32] [Server thread/INFO]: <kokosh> xD
+[22:02:45] [Server thread/INFO]: <Addicted2Life> no to kamien z serca
+[22:02:50] [Server thread/INFO]: <Addicted2Life> to bylo dawno temu
+[22:03:43] [Server thread/INFO]: <Addicted2Life> podpal drzewo zycia
+[22:03:55] [Server thread/INFO]: <kokosh> nie wiem czy strzaly podpalaja xD
+[22:04:07] [Server thread/INFO]: <Addicted2Life> pala sie
+[22:04:15] [Server thread/INFO]: <Addicted2Life> ale to moze jakis fake efekt
+[22:04:20] [Server thread/INFO]: <kokosh> no ale drzewo sie nie zlapie
+[22:04:22] [Server thread/INFO]: <kokosh> to tak jak
+[22:04:35] [Server thread/INFO]: <kokosh> jak postawisz skrzynie obok lawy to zacznie plonac
+[22:04:39] [Server thread/INFO]: <kokosh> ale nigdy sie nie spali xD
+[22:05:07] [Server thread/INFO]: <Addicted2Life> Pog
+[22:05:19] [Server thread/INFO]: <kokosh> no to tez jest confirmed fake efekt
+[22:07:10] [Server thread/INFO]: <kokosh> meh
+[22:07:14] [Server thread/INFO]: <kokosh> nie trafilem niczym
+[22:08:07] [Server thread/INFO]: <kokosh> got ya bitch
+[22:08:08] [Server thread/INFO]: <kokosh> xD
+[22:09:40] [Server thread/INFO]: <kokosh> dobra
+[22:09:44] [Server thread/INFO]: <kokosh> ja chyba koncze
+[22:09:49] [Server thread/INFO]: <Addicted2Life> narq
+[22:09:51] [Server thread/INFO]: <kokosh> moge ci zostawic serwer jak chcesz
+[22:10:00] [Server thread/INFO]: <Addicted2Life> tez ide spac
+[22:10:09] [Server thread/INFO]: kokosh lost connection: Disconnected
+[22:10:09] [Server thread/INFO]: kokosh left the game
+[22:10:10] [Server thread/INFO]: <Addicted2Life> in real life PepeHands
+[22:10:12] [Server thread/INFO]: Addicted2Life lost connection: Disconnected
+[22:10:12] [Server thread/INFO]: Addicted2Life left the game
+[22:10:21] [Server Shutdown Thread/INFO]: Stopping server
