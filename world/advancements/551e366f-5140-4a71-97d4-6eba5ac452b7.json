@@ -536,13 +536,13 @@
       "minecraft:wither_skeleton": "2018-12-09 12:28:19 +0100",
       "minecraft:zombie_pigman": "2018-11-17 18:54:27 +0100",
       "minecraft:ghast": "2018-12-09 12:16:07 +0100",
-      "minecraft:enderman": "2018-11-03 16:32:40 +0100",
       "minecraft:silverfish": "2018-12-01 13:49:41 +0100",
+      "minecraft:enderman": "2018-11-03 16:32:40 +0100",
       "minecraft:magma_cube": "2018-12-09 12:57:54 +0100",
       "minecraft:spider": "2018-11-03 15:59:34 +0100",
       "minecraft:zombie": "2018-11-03 13:28:18 +0100",
-      "minecraft:drowned": "2018-12-08 14:37:30 +0100",
       "minecraft:creeper": "2018-11-03 17:54:46 +0100",
+      "minecraft:drowned": "2018-12-08 14:37:30 +0100",
       "minecraft:zombie_villager": "2018-11-03 18:13:07 +0100",
       "minecraft:slime": "2018-11-08 18:24:02 +0100"
     },
@@ -683,6 +683,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2018-12-09 12:52:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-12-23 16:04:16 +0100"
     },
     "done": true
   },
@@ -965,8 +971,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2018-12-06 19:16:19 +0100",
-      "minecraft:mountains": "2018-11-08 18:20:02 +0100",
       "minecraft:forest": "2018-11-03 13:10:28 +0100",
+      "minecraft:mountains": "2018-11-08 18:20:02 +0100",
       "minecraft:taiga": "2018-11-12 13:37:00 +0100",
       "minecraft:desert_hills": "2018-12-06 19:18:23 +0100",
       "minecraft:taiga_hills": "2018-11-12 14:12:32 +0100",
@@ -977,8 +983,8 @@
       "minecraft:savanna_plateau": "2018-12-06 19:16:35 +0100",
       "minecraft:beach": "2018-11-12 12:58:36 +0100",
       "minecraft:dark_forest": "2018-11-12 12:45:20 +0100",
-      "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
       "minecraft:river": "2018-11-03 16:05:36 +0100",
+      "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
       "minecraft:birch_forest_hills": "2018-11-23 18:37:13 +0100",
       "minecraft:wooded_mountains": "2018-11-07 19:41:22 +0100",
       "minecraft:wooded_hills": "2018-11-03 13:51:21 +0100",
@@ -1465,6 +1471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-12-23 14:38:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-11-03 17:00:34 +0100"
@@ -1905,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-12-23 14:38:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-11-03 15:51:03 +0100"
@@ -2286,6 +2304,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-11 19:39:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-12-23 16:04:16 +0100"
     },
     "done": true
   },
