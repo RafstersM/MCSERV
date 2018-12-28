@@ -89,15 +89,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2018-11-04 16:11:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2018-11-04 16:11:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2018-11-04 16:11:50 +0100"
     },
     "done": true
   },
@@ -758,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2018-12-28 18:22:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2018-11-03 18:54:35 +0100"
@@ -985,6 +991,7 @@
       "minecraft:desert": "2018-12-06 19:17:13 +0100",
       "minecraft:jungle": "2018-12-06 19:16:20 +0100",
       "minecraft:birch_forest": "2018-11-08 18:20:54 +0100",
+      "minecraft:jungle_hills": "2018-12-28 18:10:28 +0100",
       "minecraft:deep_lukewarm_ocean": "2018-11-26 20:03:50 +0100",
       "minecraft:savanna_plateau": "2018-12-06 19:16:35 +0100",
       "minecraft:beach": "2018-11-12 12:58:36 +0100",
@@ -2167,6 +2174,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-11-04 16:11:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2018-12-28 18:22:30 +0100"
     },
     "done": true
   },
