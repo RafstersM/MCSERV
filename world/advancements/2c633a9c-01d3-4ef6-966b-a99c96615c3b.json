@@ -324,6 +324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-12-30 20:33:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2018-11-03 13:38:06 +0100"
@@ -396,13 +402,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:21:21 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:21:21 +0100"
     },
@@ -773,7 +779,10 @@
       "minecraft:blaze": "2018-12-30 19:41:41 +0100",
       "minecraft:skeleton": "2018-11-03 13:43:57 +0100",
       "minecraft:phantom": "2018-11-04 15:32:16 +0100",
+      "minecraft:zombie_pigman": "2018-12-30 20:30:01 +0100",
+      "minecraft:ghast": "2018-12-30 20:48:46 +0100",
       "minecraft:cave_spider": "2018-11-03 16:39:17 +0100",
+      "minecraft:magma_cube": "2018-12-30 20:39:02 +0100",
       "minecraft:spider": "2018-11-03 15:01:23 +0100",
       "minecraft:zombie": "2018-11-03 13:24:36 +0100",
       "minecraft:creeper": "2018-11-03 13:44:29 +0100",
@@ -864,6 +873,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 14:18:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2018-12-30 20:42:50 +0100"
     },
     "done": true
   },
@@ -1098,6 +1113,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2018-11-04 17:15:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2018-12-30 20:36:14 +0100"
     },
     "done": true
   },
@@ -1385,8 +1406,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-11-03 13:03:00 +0100",
       "minecraft:mountains": "2018-11-04 17:31:22 +0100",
+      "minecraft:forest": "2018-11-03 13:03:00 +0100",
       "minecraft:taiga": "2018-11-04 17:14:31 +0100",
       "minecraft:taiga_hills": "2018-11-04 17:31:07 +0100",
       "minecraft:river": "2018-11-03 18:08:30 +0100",
