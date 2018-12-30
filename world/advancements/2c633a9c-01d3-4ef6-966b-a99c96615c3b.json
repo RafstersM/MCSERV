@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-12-30 19:41:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:21:21 +0100"
@@ -152,6 +158,15 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2018-11-03 14:19:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2018-12-30 19:31:25 +0100",
+      "diamond_helmet": "2018-12-30 19:31:25 +0100",
+      "diamond_chestplate": "2018-12-30 19:31:25 +0100",
+      "diamond_boots": "2018-12-30 19:31:25 +0100"
     },
     "done": true
   },
@@ -705,6 +720,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2018-12-30 19:54:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2018-11-03 13:08:05 +0100"
@@ -723,13 +744,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 17:13:01 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-11-03 17:13:01 +0100"
     },
@@ -749,6 +770,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2018-12-30 19:41:41 +0100",
       "minecraft:skeleton": "2018-11-03 13:43:57 +0100",
       "minecraft:phantom": "2018-11-04 15:32:16 +0100",
       "minecraft:cave_spider": "2018-11-03 16:39:17 +0100",
@@ -762,6 +784,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2018-11-03 17:13:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-12-30 19:41:10 +0100"
     },
     "done": true
   },
@@ -893,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-12-30 19:43:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-11-03 14:18:36 +0100"
@@ -965,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-12-30 19:49:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2018-11-03 17:07:30 +0100"
@@ -1022,6 +1062,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 14:18:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-12-30 19:41:40 +0100"
     },
     "done": true
   },
@@ -1515,6 +1561,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-17 22:39:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-12-30 19:49:55 +0100"
     },
     "done": true
   },
