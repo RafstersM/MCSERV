@@ -1,67 +1,61 @@
-[17:45:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:45:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:45:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:45:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:45:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:45:32] [main/INFO]: Loaded 0 recipes
-[17:45:32] [main/INFO]: Loaded 0 advancements
-[17:45:32] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[17:45:32] [Server thread/INFO]: Loading properties
-[17:45:32] [Server thread/INFO]: Default game type: SURVIVAL
-[17:45:32] [Server thread/INFO]: Generating keypair
-[17:45:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:45:33] [Server thread/INFO]: Using default channel type
-[17:45:36] [Server thread/INFO]: Preparing level "world"
-[17:45:36] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:45:36] [Server thread/INFO]: Loaded 524 recipes
-[17:45:37] [Server thread/INFO]: Loaded 571 advancements
-[17:45:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 4%
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 8%
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 12%
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 16%
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 20%
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 24%
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 28%
-[17:45:37] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[17:45:37] [Server thread/INFO]: Preparing spawn area: 32%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 36%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 40%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 44%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 48%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 52%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 56%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 60%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 64%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 68%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 72%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 76%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 80%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 84%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 88%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 92%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 96%
-[17:45:38] [Server thread/INFO]: Preparing spawn area: 100%
-[17:45:38] [Server thread/INFO]: Time elapsed: 1025 ms
-[17:45:38] [Server thread/INFO]: Done (2.188s)! For help, type "help"
-[17:45:57] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[17:45:57] [Server thread/INFO]: kokosh[/127.0.0.1:54383] logged in with entity id 578 at (626.1967867605551, 63.0, 2591.7107584760997)
-[17:45:57] [Server thread/INFO]: kokosh joined the game
-[17:47:20] [Server thread/INFO]: kokosh lost connection: Disconnected
-[17:47:20] [Server thread/INFO]: kokosh left the game
-[17:47:44] [Server thread/INFO]: Unknown command
-[17:47:44] [Server thread/INFO]: /deathlog<--[HERE]
-[17:57:29] [User Authenticator #2/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[17:57:29] [Server thread/INFO]: kokosh[/127.0.0.1:54772] logged in with entity id 834 at (626.1967867605551, 63.0, 2591.7107584760997)
-[17:57:29] [Server thread/INFO]: kokosh joined the game
-[17:57:34] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[17:57:35] [Server thread/WARN]: kokosh moved too quickly! -921.6967867605551,0.09999847412109375,-2289.2107584760997
-[17:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:57:41] [Server thread/INFO]: Incorrect argument for command
-[17:57:41] [Server thread/INFO]: ...tp kokosh 626, 64, 2591<--[HERE]
-[17:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
-[17:58:09] [Server thread/INFO]: Teleported kokosh to 626.5, 64.0, 2591.5
-[19:10:00] [Server thread/INFO]: kokosh has reached the goal [Sky's the Limit]
-[20:24:40] [Server thread/INFO]: kokosh lost connection: Disconnected
-[20:24:40] [Server thread/INFO]: kokosh left the game
-[20:25:28] [Server Shutdown Thread/INFO]: Stopping server
+[16:03:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:03:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:03:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:03:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:03:35] [main/INFO]: Loaded 0 recipes
+[16:03:35] [main/INFO]: Loaded 0 advancements
+[16:03:35] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[16:03:35] [Server thread/INFO]: Loading properties
+[16:03:35] [Server thread/INFO]: Default game type: SURVIVAL
+[16:03:35] [Server thread/INFO]: Generating keypair
+[16:03:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:03:36] [Server thread/INFO]: Using default channel type
+[16:03:37] [Server thread/INFO]: Preparing level "world"
+[16:03:37] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:03:38] [Server thread/INFO]: Loaded 524 recipes
+[16:03:39] [Server thread/INFO]: Loaded 571 advancements
+[16:03:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 4%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 8%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 12%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 16%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 20%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 24%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 28%
+[16:03:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 32%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 36%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 44%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 48%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 52%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 56%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 60%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 64%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 68%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 72%
+[16:03:40] [Server thread/INFO]: Preparing spawn area: 76%
+[16:03:41] [Server thread/INFO]: Preparing spawn area: 80%
+[16:03:41] [Server thread/INFO]: Preparing spawn area: 84%
+[16:03:41] [Server thread/INFO]: Preparing spawn area: 88%
+[16:03:41] [Server thread/INFO]: Preparing spawn area: 92%
+[16:03:41] [Server thread/INFO]: Preparing spawn area: 96%
+[16:03:41] [Server thread/INFO]: Preparing spawn area: 100%
+[16:03:41] [Server thread/INFO]: Time elapsed: 1651 ms
+[16:03:41] [Server thread/INFO]: Done (3.674s)! For help, type "help"
+[16:03:50] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[16:03:50] [Server thread/INFO]: kokosh[/127.0.0.1:53989] logged in with entity id 602 at (-265.7489560332404, 63.0, 4176.568079564859)
+[16:03:50] [Server thread/INFO]: kokosh joined the game
+[17:26:54] [Server thread/INFO]: kokosh lost connection: Disconnected
+[17:26:54] [Server thread/INFO]: kokosh left the game
+[17:28:05] [User Authenticator #2/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[17:28:05] [Server thread/INFO]: kokosh[/127.0.0.1:54543] logged in with entity id 12760 at (-256.56243366040815, 83.0, 4185.56797590787)
+[17:28:05] [Server thread/INFO]: kokosh joined the game
+[17:52:23] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:52:23] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[17:53:06] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[17:53:07] [Server thread/WARN]: kokosh moved too quickly! -295.66198246143097,1.3336304801635706,300.3518430002431
+[17:53:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[18:37:00] [Server thread/INFO]: kokosh lost connection: Disconnected
+[18:37:00] [Server thread/INFO]: kokosh left the game
+[18:37:08] [Server Shutdown Thread/INFO]: Stopping server
