@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:20:58 +0100"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-03 13:20:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
     },
     "done": true
   },
@@ -182,6 +194,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2019-02-02 19:10:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
     },
     "done": true
   },
@@ -579,13 +597,13 @@
       "minecraft:zombie_pigman": "2018-11-17 18:54:27 +0100",
       "minecraft:ghast": "2018-12-09 12:16:07 +0100",
       "minecraft:shulker": "2019-02-02 16:41:52 +0100",
-      "minecraft:enderman": "2018-11-03 16:32:40 +0100",
       "minecraft:silverfish": "2018-12-01 13:49:41 +0100",
+      "minecraft:enderman": "2018-11-03 16:32:40 +0100",
       "minecraft:magma_cube": "2018-12-09 12:57:54 +0100",
       "minecraft:spider": "2018-11-03 15:59:34 +0100",
       "minecraft:zombie": "2018-11-03 13:28:18 +0100",
-      "minecraft:drowned": "2018-12-08 14:37:30 +0100",
       "minecraft:creeper": "2018-11-03 17:54:46 +0100",
+      "minecraft:drowned": "2018-12-08 14:37:30 +0100",
       "minecraft:zombie_villager": "2018-11-03 18:13:07 +0100",
       "minecraft:slime": "2018-11-08 18:24:02 +0100"
     },
@@ -969,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2018-12-06 19:27:58 +0100"
@@ -1032,8 +1056,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2018-12-06 19:16:19 +0100",
-      "minecraft:mountains": "2018-11-08 18:20:02 +0100",
       "minecraft:forest": "2018-11-03 13:10:28 +0100",
+      "minecraft:mountains": "2018-11-08 18:20:02 +0100",
       "minecraft:taiga": "2018-11-12 13:37:00 +0100",
       "minecraft:desert_hills": "2018-12-06 19:18:23 +0100",
       "minecraft:taiga_hills": "2018-11-12 14:12:32 +0100",
@@ -1045,8 +1069,8 @@
       "minecraft:savanna_plateau": "2018-12-06 19:16:35 +0100",
       "minecraft:beach": "2018-11-12 12:58:36 +0100",
       "minecraft:dark_forest": "2018-11-12 12:45:20 +0100",
-      "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
       "minecraft:river": "2018-11-03 16:05:36 +0100",
+      "minecraft:lukewarm_ocean": "2018-11-12 13:16:21 +0100",
       "minecraft:birch_forest_hills": "2018-11-23 18:37:13 +0100",
       "minecraft:wooded_mountains": "2018-11-07 19:41:22 +0100",
       "minecraft:wooded_hills": "2018-11-03 13:51:21 +0100",
@@ -1824,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-03 15:03:10 +0100"
@@ -1905,6 +1935,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2018-12-12 19:46:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
     },
     "done": true
   },
@@ -2175,6 +2211,12 @@
   "minecraft:recipes/misc/coal_from_smelting": {
     "criteria": {
       "has_coal_ore": "2018-12-02 21:48:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
     },
     "done": true
   },
@@ -2493,6 +2535,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-11-03 16:50:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-02-04 20:36:17 +0100"
     },
     "done": true
   },
