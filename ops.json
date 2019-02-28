@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "551e366f-5140-4a71-97d4-6eba5ac452b7",
+    "name": "kokosh",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
