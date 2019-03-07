@@ -1,143 +1,88 @@
-[20:32:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:32:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:32:16] [main/INFO]: Loaded 0 recipes
-[20:32:16] [main/INFO]: Loaded 0 advancements
-[20:32:16] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[20:32:16] [Server thread/INFO]: Loading properties
-[20:32:16] [Server thread/INFO]: Default game type: SURVIVAL
-[20:32:16] [Server thread/INFO]: Generating keypair
-[20:32:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:32:18] [Server thread/INFO]: Using default channel type
-[20:32:21] [Server thread/INFO]: Preparing level "world"
-[20:32:21] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:32:21] [Server thread/INFO]: Loaded 524 recipes
-[20:32:22] [Server thread/INFO]: Loaded 571 advancements
-[20:32:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:32:22] [Server thread/INFO]: Preparing spawn area: 4%
-[20:32:22] [Server thread/INFO]: Preparing spawn area: 8%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 12%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 16%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 20%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 24%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 28%
-[20:32:23] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 32%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 36%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 40%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 44%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 48%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 52%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 56%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 60%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 64%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 68%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 72%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 76%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 80%
-[20:32:23] [Server thread/INFO]: Preparing spawn area: 84%
-[20:32:24] [Server thread/INFO]: Preparing spawn area: 88%
-[20:32:24] [Server thread/INFO]: Preparing spawn area: 92%
-[20:32:24] [Server thread/INFO]: Preparing spawn area: 96%
-[20:32:24] [Server thread/INFO]: Preparing spawn area: 100%
-[20:32:24] [Server thread/INFO]: Time elapsed: 1483 ms
-[20:32:24] [Server thread/INFO]: Done (2.832s)! For help, type "help"
-[20:32:47] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
-[20:32:47] [Server thread/INFO]: kokosh[/127.0.0.1:51657] logged in with entity id 568 at (-700.6730756273059, 41.0, 738.0531970976418)
-[20:32:47] [Server thread/INFO]: kokosh joined the game
-[20:32:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
-[21:04:11] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[21:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:10:54] [Server thread/ERROR]: Can't find any space for item in the inventory
-[21:19:34] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:20:06] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:21:22] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:21:25] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:35:31] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:36:22] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:36:25] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:36:28] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:36:34] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:37:01] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:37:14] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:37:17] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:55:30] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:55:35] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[21:55:55] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[21:56:46] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:00:38] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:00:57] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:01:32] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:01:43] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:03:18] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:03:36] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:05:57] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:06:01] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:09:39] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:10:24] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:25:56] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
-[22:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[22:45:31] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:45:41] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:50:54] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:51:11] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:51:16] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:51:34] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:55:54] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:56:13] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[22:57:53] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[22:58:11] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:00:07] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:00:24] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:00:30] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:00:42] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:01:57] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:02:02] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:02:08] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:02:12] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:02:41] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:02:47] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:03:12] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:04:14] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:04:17] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:04:22] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:04:40] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:04:44] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:04:54] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:04:59] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:05:10] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:05:17] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:05:25] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:05:50] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:05:58] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:06:05] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:06:09] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:06:22] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:09:07] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:09:15] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:10:54] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:11:09] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:12:28] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
-[23:12:39] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:13:30] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:13:55] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:17:37] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
-[23:18:53] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
-[23:55:36] [Server thread/INFO]: kokosh lost connection: Disconnected
-[23:55:36] [Server thread/INFO]: kokosh left the game
-[23:55:44] [Server Shutdown Thread/INFO]: Stopping server
+[13:15:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:15:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:15:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:15:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:15:25] [main/INFO]: Loaded 0 recipes
+[13:15:25] [main/INFO]: Loaded 0 advancements
+[13:15:25] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[13:15:25] [Server thread/INFO]: Loading properties
+[13:15:25] [Server thread/INFO]: Default game type: SURVIVAL
+[13:15:25] [Server thread/INFO]: Generating keypair
+[13:15:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:15:26] [Server thread/INFO]: Using default channel type
+[13:15:30] [Server thread/INFO]: Preparing level "world"
+[13:15:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:15:30] [Server thread/INFO]: Loaded 524 recipes
+[13:15:31] [Server thread/INFO]: Loaded 571 advancements
+[13:15:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:15:31] [Server thread/INFO]: Preparing spawn area: 4%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 8%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 12%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 16%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 20%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 24%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 28%
+[13:15:32] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 32%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 36%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 40%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 44%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 48%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 52%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 56%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 60%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 64%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 68%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 72%
+[13:15:32] [Server thread/INFO]: Preparing spawn area: 76%
+[13:15:33] [Server thread/INFO]: Preparing spawn area: 80%
+[13:15:33] [Server thread/INFO]: Preparing spawn area: 84%
+[13:15:33] [Server thread/INFO]: Preparing spawn area: 88%
+[13:15:33] [Server thread/INFO]: Preparing spawn area: 92%
+[13:15:33] [Server thread/INFO]: Preparing spawn area: 96%
+[13:15:33] [Server thread/INFO]: Preparing spawn area: 100%
+[13:15:33] [Server thread/INFO]: Time elapsed: 1642 ms
+[13:15:33] [Server thread/INFO]: Done (3.182s)! For help, type "help"
+[13:16:17] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[13:16:17] [Server thread/INFO]: kokosh[/127.0.0.1:51375] logged in with entity id 577 at (-688.5858452100944, 26.0, 739.0377048392719)
+[13:16:17] [Server thread/INFO]: kokosh joined the game
+[13:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[17:16:25] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:16:46] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[17:16:52] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:17:05] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[17:19:25] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:19:32] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[17:21:25] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:22:54] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[17:37:07] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:37:10] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[17:37:30] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[17:38:30] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[17:46:00] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[17:47:41] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[17:47:53] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[17:59:02] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:59:25] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[17:59:57] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[17:59:59] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[18:00:03] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[18:01:04] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:01:31] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[18:02:17] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:02:24] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[18:02:30] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:03:06] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[18:04:12] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:05:49] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[18:07:51] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:08:14] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[18:12:58] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[18:47:38] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:47:53] [Server thread/INFO]: [kokosh: Set own game mode to Creative Mode]
+[18:51:41] [Server thread/INFO]: [kokosh: Set own game mode to Spectator Mode]
+[18:51:53] [Server thread/INFO]: [kokosh: Set own game mode to Survival Mode]
+[19:41:07] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:03:12] [Server thread/INFO]: kokosh lost connection: Disconnected
+[22:03:12] [Server thread/INFO]: kokosh left the game
+[22:03:20] [Server Shutdown Thread/INFO]: Stopping server
