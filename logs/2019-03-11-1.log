@@ -1,0 +1,154 @@
+[20:09:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:09:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:09:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:09:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:09:21] [main/INFO]: Loaded 0 recipes
+[20:09:21] [main/INFO]: Loaded 0 advancements
+[20:09:21] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[20:09:21] [Server thread/INFO]: Loading properties
+[20:09:21] [Server thread/INFO]: Default game type: SURVIVAL
+[20:09:21] [Server thread/INFO]: Generating keypair
+[20:09:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:09:22] [Server thread/INFO]: Using default channel type
+[20:09:23] [Server thread/INFO]: Preparing level "world"
+[20:09:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:09:24] [Server thread/INFO]: Loaded 524 recipes
+[20:09:25] [Server thread/INFO]: Loaded 571 advancements
+[20:09:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:09:25] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID b4af03bb-3000-41bd-9d78-9fa198df6109
+[20:09:25] [Server thread/INFO]: Preparing spawn area: 4%
+[20:09:25] [Server thread/INFO]: Preparing spawn area: 8%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 12%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 16%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 20%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 24%
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 843fb02b-84ae-4827-8b87-5cc03d29d066
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 7a426a61-adf0-4e6f-ab51-f89cb835978d
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 41f2ee65-c60f-4b15-b649-5d738a2e9f12
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6f703d78-484a-466a-80db-0ccebb87e1eb
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 28%
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 542024b5-5cf0-4422-aa7d-8e455ec25b16
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08a4677f-eb1e-4229-bd16-9420aa4629e1
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08419c28-6e71-4be6-b883-abe89e55df72
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 1f8def8b-3630-4480-9ed7-522a2c4ccf40
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6bea6388-8d91-4b16-9b18-5bc5fa15b11b
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d0480573-d318-4406-91bc-fcfedfbc6f0e
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 2fea8903-7222-4382-9fcf-e924c94ab741
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID ade89432-ab73-4a53-8f98-c61c8b8a46e1
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0cee98cb-1afc-4500-a42b-10021f39c69f
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cc58673d-92d3-4b45-bcf1-86f3c9dc4bff
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0bd0fdfc-5e04-40d0-8943-874c27e67a9e
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 707fccb8-ad38-4248-be83-5c851e75cd04
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 5f5bf882-896d-484f-99f5-5ef3289cf0e6
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 35794e88-82a7-4864-a4f6-954524a76a31
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 40edf260-145f-4e36-9462-3ace95a7e1fe
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 8e8b503e-14b3-458a-924c-dc57a698bcd5
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 67535742-50d4-4ed6-ae9f-e6bcce0a7e82
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 3f2530ff-664e-425b-a011-a9ad3cca9246
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 32%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 36%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 40%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 44%
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 7a2db2c0-eb3a-42b6-a821-a1cb1b010504
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9e1f2e50-8527-4482-a7aa-4cc50d955c3d
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 926ccadd-4a65-47e0-adde-c1a71edd24d3
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 48%
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d115b08c-da6f-48a0-90be-81c77c84533e
+[20:09:26] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1b24d21-3a9e-4d8a-908e-a0bfa7693dc1
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 52%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 56%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 60%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 64%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 68%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 72%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 76%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 80%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 84%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 88%
+[20:09:26] [Server thread/INFO]: Preparing spawn area: 92%
+[20:09:27] [Server thread/INFO]: Preparing spawn area: 96%
+[20:09:27] [Server thread/INFO]: Preparing spawn area: 100%
+[20:09:27] [Server thread/INFO]: Time elapsed: 1773 ms
+[20:09:27] [Server thread/INFO]: Done (3.804s)! For help, type "help"
+[20:11:06] [User Authenticator #1/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[20:11:06] [Server thread/INFO]: kokosh[/127.0.0.1:51999] logged in with entity id 617 at (-319.69999998807907, 178.0, 326.30000001192093)
+[20:11:06] [Server thread/INFO]: kokosh joined the game
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID b4af03bb-3000-41bd-9d78-9fa198df6109
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 843fb02b-84ae-4827-8b87-5cc03d29d066
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 7a426a61-adf0-4e6f-ab51-f89cb835978d
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 41f2ee65-c60f-4b15-b649-5d738a2e9f12
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6f703d78-484a-466a-80db-0ccebb87e1eb
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 542024b5-5cf0-4422-aa7d-8e455ec25b16
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08a4677f-eb1e-4229-bd16-9420aa4629e1
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08419c28-6e71-4be6-b883-abe89e55df72
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 1f8def8b-3630-4480-9ed7-522a2c4ccf40
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6bea6388-8d91-4b16-9b18-5bc5fa15b11b
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d0480573-d318-4406-91bc-fcfedfbc6f0e
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 2fea8903-7222-4382-9fcf-e924c94ab741
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID ade89432-ab73-4a53-8f98-c61c8b8a46e1
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0cee98cb-1afc-4500-a42b-10021f39c69f
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cc58673d-92d3-4b45-bcf1-86f3c9dc4bff
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0bd0fdfc-5e04-40d0-8943-874c27e67a9e
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 707fccb8-ad38-4248-be83-5c851e75cd04
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 5f5bf882-896d-484f-99f5-5ef3289cf0e6
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 35794e88-82a7-4864-a4f6-954524a76a31
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 40edf260-145f-4e36-9462-3ace95a7e1fe
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 8e8b503e-14b3-458a-924c-dc57a698bcd5
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 67535742-50d4-4ed6-ae9f-e6bcce0a7e82
+[20:11:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 3f2530ff-664e-425b-a011-a9ad3cca9246
+[20:11:08] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 3afa5a13-61c8-4f15-96d6-183879946387
+[20:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[20:11:21] [Server thread/INFO]: kokosh fell from a high place
+[20:12:16] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:13:21] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:15:34] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:16:01] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:16:31] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:17:25] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:22:09] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:22:48] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:23:13] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:24:09] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:24:23] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:27:16] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:37:47] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:39:33] [Server thread/WARN]: kokosh was kicked for floating too long!
+[20:39:33] [Server thread/INFO]: kokosh lost connection: Flying is not enabled on this server
+[20:39:33] [Server thread/INFO]: kokosh left the game
+[20:39:38] [User Authenticator #2/INFO]: UUID of player kokosh is 551e366f-5140-4a71-97d4-6eba5ac452b7
+[20:39:38] [Server thread/INFO]: kokosh[/127.0.0.1:52190] logged in with entity id 126208 at (-234.5, 64.0999984741211, 217.5)
+[20:39:38] [Server thread/INFO]: kokosh joined the game
+[20:39:38] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[20:39:38] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID b4af03bb-3000-41bd-9d78-9fa198df6109
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 843fb02b-84ae-4827-8b87-5cc03d29d066
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 7a426a61-adf0-4e6f-ab51-f89cb835978d
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 41f2ee65-c60f-4b15-b649-5d738a2e9f12
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6f703d78-484a-466a-80db-0ccebb87e1eb
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 542024b5-5cf0-4422-aa7d-8e455ec25b16
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08a4677f-eb1e-4229-bd16-9420aa4629e1
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08419c28-6e71-4be6-b883-abe89e55df72
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 1f8def8b-3630-4480-9ed7-522a2c4ccf40
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 6bea6388-8d91-4b16-9b18-5bc5fa15b11b
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d0480573-d318-4406-91bc-fcfedfbc6f0e
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 2fea8903-7222-4382-9fcf-e924c94ab741
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID ade89432-ab73-4a53-8f98-c61c8b8a46e1
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0cee98cb-1afc-4500-a42b-10021f39c69f
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 0bd0fdfc-5e04-40d0-8943-874c27e67a9e
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 707fccb8-ad38-4248-be83-5c851e75cd04
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 5f5bf882-896d-484f-99f5-5ef3289cf0e6
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 35794e88-82a7-4864-a4f6-954524a76a31
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 40edf260-145f-4e36-9462-3ace95a7e1fe
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 8e8b503e-14b3-458a-924c-dc57a698bcd5
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 3f2530ff-664e-425b-a011-a9ad3cca9246
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 67535742-50d4-4ed6-ae9f-e6bcce0a7e82
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID cc58673d-92d3-4b45-bcf1-86f3c9dc4bff
+[20:39:39] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 3afa5a13-61c8-4f15-96d6-183879946387
+[20:42:30] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:00:38] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:04:46] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:07:38] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:15:57] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:16:09] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:17:03] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID d1dc219f-4c4b-4a66-8414-3fc8c5dfe7e5
+[21:17:23] [Server thread/INFO]: kokosh lost connection: Disconnected
+[21:17:23] [Server thread/INFO]: kokosh left the game
